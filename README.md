@@ -148,7 +148,7 @@ scikit-learn
 
 ## 📜 License
 
-MIT License © 2025 \Anton Atef
+MIT License © 2025 Anton Atef
 
 ---
 
@@ -160,7 +160,7 @@ Feel free to fork this repo and submit pull requests. Suggestions and improvemen
 
 ## 📬 Contact
 
-For questions, reach out via GitHub Issues or email: \[[your.email@example.com](mailto:your.email@example.com)]
+For questions, reach out via GitHub Issues or email: \[[tony.atef.954@gmail.com](mailto:tony.atef.954@gmail.com)]
 
 ```
 
