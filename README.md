@@ -163,6 +163,6 @@ Feel free to fork this repo and submit pull requests. Suggestions and improvemen
 
 ## 📬 Contact
 
-For questions, reach out via GitHub Issues or email: \[[tony.atef.954@gmail.com]
+For questions, reach out via GitHub Issues or email: \[[tony.atef.954@gmail.com]]
 
 ---
